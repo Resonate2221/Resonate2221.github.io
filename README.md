@@ -8,7 +8,7 @@ Run `python3 -m http.server 8000` in this folder, then open http://localhost:800
 
 ## Update content
 
-- `index.html`: English biography, research, education, honors, projects, and links.
+- `index.html`: English biography, research, education, honors, and links.
 - `script.js`: Chinese translations. Each `data-i18n` key maps to a Chinese entry; English remains readable without JavaScript. The language preference is saved in the visitor’s browser.
 - `style.css`: Responsive layout, colors, typography, and print styles.
 - `assets/meijun-gao.jpg`: Profile photo, cropped visually with CSS. Research images are extracted from the supplied manuscripts.
@@ -25,4 +25,4 @@ The existing site is https://resonate2221.github.io/. The canonical URL and soci
 
 ## Privacy
 
-Only the email address already present on the original public homepage is included. The original CVs, phone number, student application ID, anonymous manuscripts, and source presentation are not bundled.
+The first-screen email button uses gaomeijun0526@gmail.com, as requested by the owner. No email address is shown in the bottom contact section. The original CVs, phone number, student application ID, anonymous manuscripts, and source presentation are not bundled.

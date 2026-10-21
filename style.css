@@ -77,7 +77,7 @@ svg {
   border-bottom:1px solid var(--line)
 }
 .header-inner {
-  height:85px;
+  height:72px;
   display:flex;
   align-items:center;
   justify-content:space-between;
@@ -108,8 +108,8 @@ svg {
 .site-header nav {
   display:flex;
   gap:30px;
-  margin-left:auto;
-  margin-right:18px
+  margin-left:0;
+  margin-right:auto
 }
 .site-header nav a {
   position:relative;
@@ -918,10 +918,10 @@ html[lang=zh-CN] .eyebrow {
     margin-right:24px
   }
   .header-inner {
-    height:88px;
-    flex-wrap:wrap;
-    gap:0 20px;
-    padding:11px 0
+    height:64px;
+    flex-wrap:nowrap;
+    gap:16px;
+    padding:12px 0
   }
   .brand-name {
     font-size:12px
@@ -939,10 +939,10 @@ html[lang=zh-CN] .eyebrow {
     min-height:30px
   }
   .header-inner nav {
-    order:3;
-    flex-basis:100%;
-    margin:3px 0 0;
-    gap:0;
+    flex:1;
+    min-width:0;
+    margin:0;
+    gap:12px;
     justify-content:space-between
   }
   .site-header nav a {
