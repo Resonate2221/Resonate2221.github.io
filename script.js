@@ -11,13 +11,10 @@ const chinese = {
   researchKicker:'正在探索的问题',researchTitle:'精选科研经历',researchIntro:'从视觉表征学习出发，探索智能系统如何在真实世界中做出可靠决策。',
   cofirst:'共同第一作者',navStatus:'研究稿件',
   navSummary:'RepresentNav 从互补的视觉编码器中学习面向任务的表征空间，并在行动前预测未来表征，将视觉感知与潜在世界建模相结合。',
-  details:'展开研究详情 <span aria-hidden="true">+</span>',
-  navDetails:'参与设计统一视觉感知与未来预测的共享表征空间；比较不同视觉编码器和中间层特征组合，完成 Representation Residual 深度等结构消融；完成模型训练与 PointGoal 基准实验，并整理可复现实验结果。',
   secondAuthor:'第二作者',
   formalSummary:'将智能体流程转化为带有结构化动作、生命周期钩子和显式状态的可执行技能，让长程任务的流程约束更可靠，并减少 token 消耗。',
   copyCitation:'复制引用',videoTag:'视频理解',videoStatus:'科研项目',
   videoSummary:'以“一段视频对应一组摘要”刻画摘要的主观性，将基于扩散重建的重要性估计与贝叶斯式片段顺序选择相结合，生成多样化的视频摘要。',
-  videoDetails:'探索使用 DDPM 与 Classifier-Free Guidance，根据上下文重建被遮挡的视频片段，并开展引导权重消融实验；参与多用户交互式摘要重标注，为多样化摘要的集合级评估提供数据。',
   backgroundKicker:'学业与实践',backgroundTitle:'教育背景与荣誉',education:'教育背景',pku:'北京大学',degree:'计算机科学与技术 · 本科',school:'信息科学技术学院',graduation:'预计毕业 · 2027 年 7 月',admission:'计划2027年在北大继续读硕士',awards:'部分荣誉',xiaomi:'小米一等奖学金',haiwen:'北京大学海闻奖学金',
   contactKicker:'交流与联系',contactTitle:'保持好奇，<br>也期待与你交流。',contactText:'欢迎就具身智能、多模态学习与可靠智能体等研究方向联系我，交流想法与经验。',footer:'在北京大学，带着好奇心继续探索。',backTop:'回到顶部 ↑'
 };
