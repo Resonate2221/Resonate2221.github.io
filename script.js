@@ -6,7 +6,7 @@ const chinese = {
   affiliation:'北京大学 · 计算机科学与技术',statement:'探索感知、推理<br>与行动之间的联系。',
   bio1:'我是<a href="https://www.pku.edu.cn/" target="_blank" rel="noopener noreferrer">北京大学</a>信息科学技术学院计算机科学与技术专业本科生，预计于 2027 年 7 月毕业，计划 2027 年在北大继续读硕士。',
   bio2:'我的研究兴趣是<strong>具身智能与多模态表征学习</strong>。我关注导航模型如何按任务需求构建视觉表征，并在行动前预测未来；也在探索视频理解与可靠的大语言模型智能体。',
-  emailMe:'邮件联系',viewResearch:'了解我的研究',portraitCaption:'本科生研究者 · 北京大学',
+  emailMe:'邮件联系',viewResearch:'了解我的研究',portraitCaption:'本科生',
   interestsLabel:'研究兴趣',interest1:'具身智能',interest2:'多模态学习',interest3:'可靠智能体',
   researchKicker:'正在探索的问题',researchTitle:'精选科研经历',researchIntro:'从视觉表征学习出发，探索智能系统如何在真实世界中做出可靠决策。',
   cofirst:'共同第一作者',navStatus:'研究稿件',
